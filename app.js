@@ -73,6 +73,7 @@ function create(env, ctx) {
         "/bgclock.html":"bgclock.html",
         "/report":"reportindex.html",
         "/translations":"translationsindex.html",
+	"/ccd.html":"ccd.html"
         "/clock.html":"clock.html"
     };
 
